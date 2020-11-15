@@ -1,0 +1,7 @@
+apiVersion: cache.play.js.gl/v1
+kind: Play
+metadata:
+  name: play-sample
+spec:
+  # Add fields here
+  foo: bar
